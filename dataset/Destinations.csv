@@ -1,0 +1,660 @@
+﻿DestinationID,Name,District,State,Category,BestTimeToVisit,PopularityScore
+1,Tirupati Balaji Temple,Tirupati,Andhra Pradesh,Religious,October - March,9.5
+2,Araku Valley,Visakhapatnam,Andhra Pradesh,Hill Station,October - March,8.7
+3,Borra Caves,Visakhapatnam,Andhra Pradesh,Nature,October - March,8.5
+4,Srisailam Temple,Kurnool,Andhra Pradesh,Religious,October - February,9
+5,Gandikota,Kadapa,Andhra Pradesh,Historical,October - March,8.6
+6,Belum Caves,Kurnool,Andhra Pradesh,Nature,November - February,8.2
+7,Lepakshi,Anantapur,Andhra Pradesh,Historical,October - March,7.8
+8,Rishikonda Beach,Visakhapatnam,Andhra Pradesh,Beach,October - March,8.4
+9,Kolleru Lake,West Godavari,Andhra Pradesh,Nature,November - February,7.5
+10,Amaravati,Guntur,Andhra Pradesh,Historical,October - March,7.7
+11,Pulicat Lake,Nellore,Andhra Pradesh,Nature,November - February,7.3
+12,Sri Venkateswara National Park,Tirupati,Andhra Pradesh,Wildlife,October - March,8
+13,Kondaveedu Fort,Guntur,Andhra Pradesh,Historical,October - February,7.2
+14,Maredumilli Forest,East Godavari,Andhra Pradesh,Wildlife,October - March,7.6
+15,Penukonda Fort,Anantapur,Andhra Pradesh,Historical,October - February,6.8
+16,Horsley Hills,Chittoor,Andhra Pradesh,Hill Station,November - February,8.1
+17,Simhachalam Temple,Visakhapatnam,Andhra Pradesh,Religious,October - March,8.5
+18,Ubbalamadugu Falls,Chittoor,Andhra Pradesh,Waterfall,August - January,7.9
+19,Ahobilam,Kurnool,Andhra Pradesh,Religious,October - March,7.4
+20,Kakinada Beach,East Godavari,Andhra Pradesh,Beach,October - March,7.3
+21,Mantralayam,Kurnool,Andhra Pradesh,Religious,October - March,7.8
+22,Kurnool Fort,Kurnool,Andhra Pradesh,Historical,October - February,7
+23,Uppalapadu Bird Sanctuary,Guntur,Andhra Pradesh,Wildlife,November - February,7.2
+24,Ettipotala Falls,Guntur,Andhra Pradesh,Waterfall,August - January,7.5
+25,Pattiseema,West Godavari,Andhra Pradesh,Nature,November - February,7.1
+26,Draksharama Temple,East Godavari,Andhra Pradesh,Religious,October - March,7.4
+27,Venkateswara Zoological Park,Tirupati,Andhra Pradesh,Wildlife,October - March,8
+28,Mogalarajapuram Caves,Vijayawada,Andhra Pradesh,Historical,October - February,6.9
+29,Tawang Monastery,Tawang,Arunachal Pradesh,Religious,March - October,9
+30,Ziro Valley,Lower Subansiri,Arunachal Pradesh,Nature,April - June,8.7
+31,Sela Pass,Tawang,Arunachal Pradesh,Mountain,May - October,8.5
+32,Namdapha National Park,Changlang,Arunachal Pradesh,Wildlife,October - March,8.2
+33,Mechuka Valley,Shi Yomi,Arunachal Pradesh,Nature,April - October,8.4
+34,Bomdila,West Kameng,Arunachal Pradesh,Hill Station,March - October,8
+35,Itanagar Wildlife Sanctuary,Papum Pare,Arunachal Pradesh,Wildlife,October - March,7.5
+36,Pakhui Wildlife Sanctuary,East Kameng,Arunachal Pradesh,Wildlife,October - April,7.8
+37,Dirang Valley,West Kameng,Arunachal Pradesh,Hill Station,March - October,7.9
+38,Roing,Lower Dibang Valley,Arunachal Pradesh,Hill Station,October - April,7.7
+39,Gori Chen Peak,Tawang,Arunachal Pradesh,Adventure,May - September,8.1
+40,Glow Lake,Tawang,Arunachal Pradesh,Nature,May - October,7.9
+41,Parashuram Kund,Lohit,Arunachal Pradesh,Religious,November - March,8.3
+42,Sangti Valley,West Kameng,Arunachal Pradesh,Nature,March - October,8
+43,Kaziranga National Park,Golaghat,Assam,Wildlife,November - April,9.5
+44,Kamakhya Temple,Guwahati,Assam,Religious,November - March,9
+45,Majuli Island,Majuli,Assam,Cultural,October - March,8.8
+46,Manas National Park,Baksa,Assam,Wildlife,November - April,8.5
+47,Dibru-Saikhowa National Park,Tinsukia,Assam,Wildlife,November - April,8.2
+48,Sivasagar,Sivasagar,Assam,Historical,October - March,7.9
+49,Haflong,Dima Hasao,Assam,Hill Station,October - April,7.8
+50,Chandubi Lake,Kamrup,Assam,Nature,November - March,7.5
+51,Tezpur,Sonitpur,Assam,Heritage,October - April,7.7
+52,Kakochang Waterfalls,Golaghat,Assam,Waterfall,June - September,7.9
+53,Bogamati,Baksa,Assam,Nature,October - March,7.3
+54,Pobitora Wildlife Sanctuary,Morigaon,Assam,Wildlife,November - April,8.3
+55,Hajo,Kamrup,Assam,Religious,October - March,7.6
+56,Umananda Island,Guwahati,Assam,Religious,October - March,8
+57,Orang National Park,Darrang,Assam,Wildlife,November - April,8.1
+58,Jatinga,Dima Hasao,Assam,Nature,September - October,7.8
+59,Panimur Falls,Dima Hasao,Assam,Waterfall,June - September,7.7
+60,Deepor Beel,Guwahati,Assam,Nature,November - March,7.4
+61,Nameri National Park,Sonitpur,Assam,Wildlife,November - April,8.2
+62,Saraighat Bridge,Guwahati,Assam,Historical,October - March,7.5
+63,Bodh Gaya,Gaya,Bihar,Religious,October - March,9.5
+64,Nalanda University,Nalanda,Bihar,Historical,October - March,9
+65,Vikramshila University,Bhagalpur,Bihar,Historical,October - March,8.2
+66,Rajgir,Nalanda,Bihar,Historical,October - March,8.5
+67,Mahabodhi Temple,Gaya,Bihar,Religious,October - March,9.4
+68,Pawapuri,Nalanda,Bihar,Religious,October - March,7.8
+69,Valmiki National Park,West Champaran,Bihar,Wildlife,October - June,8.1
+70,Patna Sahib Gurudwara,Patna,Bihar,Religious,October - March,8.3
+71,Golghar,Patna,Bihar,Historical,October - March,8
+72,Kesaria Stupa,East Champaran,Bihar,Historical,October - March,7.9
+73,Barabar Caves,Jehanabad,Bihar,Historical,October - March,7.7
+74,Kanwar Lake,Begusarai,Bihar,Nature,November - February,7.3
+75,Maner Sharif,Patna,Bihar,Religious,October - March,7.5
+76,Rohtas Fort,Rohtas,Bihar,Historical,October - March,8
+77,Bhimbandh Wildlife Sanctuary,Munger,Bihar,Wildlife,October - June,7.6
+78,Munger Fort,Munger,Bihar,Historical,October - March,7.4
+79,Telhar Kund,Rohtas,Bihar,Waterfall,August - October,7.2
+80,Ashokan Pillar,Vaishali,Bihar,Historical,October - March,7.8
+81,Vikramshila Gangetic Dolphin Sanctuary,Bhagalpur,Bihar,Wildlife,October - March,8
+82,Kakolat Waterfalls,Nawada,Bihar,Waterfall,August - October,7.7
+83,Chitrakote Waterfalls,Bastar,Chhattisgarh,Waterfall,July - October,9
+84,Barnawapara Wildlife Sanctuary,Mahasamund,Chhattisgarh,Wildlife,October - March,8.2
+85,Kanger Valley National Park,Bastar,Chhattisgarh,Wildlife,October - March,8.5
+86,Bastar Palace,Bastar,Chhattisgarh,Historical,October - March,7.9
+87,Kailash Caves,Bastar,Chhattisgarh,Historical,October - March,7.7
+88,Bhoramdeo Temple,Kawardha,Chhattisgarh,Religious,October - March,8
+89,Tirathgarh Falls,Bastar,Chhattisgarh,Waterfall,July - October,8.7
+90,Indravati National Park,Bijapur,Chhattisgarh,Wildlife,October - March,8.3
+91,Sirpur Heritage Site,Mahasamund,Chhattisgarh,Historical,October - March,7.8
+92,Danteshwari Temple,Dantewada,Chhattisgarh,Religious,October - March,8.2
+93,Mahamaya Temple,Ratanpur,Chhattisgarh,Religious,October - March,7.5
+94,Ramgarh Hill,Ambikapur,Chhattisgarh,Nature,October - March,7.3
+95,Ratanpur Fort,Bilaspur,Chhattisgarh,Historical,October - March,7.6
+96,Tamor Pingla Wildlife Sanctuary,Surajpur,Chhattisgarh,Wildlife,October - March,7.4
+97,Mainpat,Surguja,Chhattisgarh,Hill Station,October - March,7.8
+98,Red Fort,Central Delhi,Delhi,Historical,October - March,9.3
+99,Qutub Minar,South Delhi,Delhi,Historical,October - March,9.2
+100,India Gate,New Delhi,Delhi,Historical,October - March,9.4
+101,Lotus Temple,South Delhi,Delhi,Religious,October - March,9
+102,Akshardham Temple,East Delhi,Delhi,Religious,October - March,9.1
+103,Humayun's Tomb,Central Delhi,Delhi,Historical,October - March,8.9
+104,Jama Masjid,Central Delhi,Delhi,Religious,October - March,8.7
+105,Rashtrapati Bhavan,New Delhi,Delhi,Historical,October - March,8.8
+106,Chandni Chowk,Central Delhi,Delhi,Heritage,October - March,8.6
+107,National Rail Museum,South Delhi,Delhi,Historical,October - March,8
+108,Baga Beach,North Goa,Goa,Beach,October - March,9.3
+109,Dudhsagar Waterfalls,South Goa,Goa,Waterfall,June - September,9
+110,Basilica of Bom Jesus,North Goa,Goa,Religious,October - March,8.8
+111,Fort Aguada,North Goa,Goa,Historical,October - March,8.7
+112,Palolem Beach,South Goa,Goa,Beach,October - March,9.2
+113,Chapora Fort,North Goa,Goa,Historical,October - March,8.3
+114,Anjuna Beach,North Goa,Goa,Beach,October - March,9
+115,Arvalem Caves,North Goa,Goa,Historical,October - March,7.8
+116,Salim Ali Bird Sanctuary,North Goa,Goa,Wildlife,October - March,7.5
+117,Colva Beach,South Goa,Goa,Beach,October - March,8.9
+118,Gir National Park,Junagadh,Gujarat,Wildlife,December - March,9.4
+119,Rann of Kutch,Kutch,Gujarat,Nature,November - February,9.3
+120,Dwarkadhish Temple,Devbhoomi Dwarka,Gujarat,Religious,October - March,9
+121,Somnath Temple,Gir Somnath,Gujarat,Religious,October - March,9.2
+122,Lothal,Ahmedabad,Gujarat,Historical,October - March,8.5
+123,Champaner-Pavagadh Archaeological Park,Panchmahal,Gujarat,Historical,October - March,8.7
+124,Saputara Hill Station,Dang,Gujarat,Hill Station,October - June,8.3
+125,Modhera Sun Temple,Mehsana,Gujarat,Religious,October - March,8.8
+126,Sabarmati Ashram,Ahmedabad,Gujarat,Historical,October - March,8.9
+127,Marine National Park,Jamnagar,Gujarat,Wildlife,November - March,8.4
+128,Polo Forest,Sabarkantha,Gujarat,Nature,October - March,8
+129,Mandvi Beach,Kutch,Gujarat,Beach,October - March,8.6
+130,Girnar Hills,Junagadh,Gujarat,Religious,October - March,8.5
+131,Velavadar Blackbuck National Park,Bhavnagar,Gujarat,Wildlife,November - March,8.3
+132,Diu Fort,Diu,Daman and Diu,Historical,October - March,8.4
+133,Wild Ass Sanctuary,Patan,Gujarat,Wildlife,December - March,8.7
+134,Palitana Jain Temples,Bhavnagar,Gujarat,Religious,October - March,8.9
+135,Adalaj Stepwell,Gandhinagar,Gujarat,Historical,October - March,8.5
+136,Bhuj,Kutch,Gujarat,Heritage,October - March,8.3
+137,Hathisingh Jain Temple,Ahmedabad,Gujarat,Religious,October - March,8.2
+138,Surkhan Wildlife Sanctuary,Gurugram,Haryana,Wildlife,October - March,7.5
+139,Kurukshetra,Kurukshetra,Haryana,Religious,October - March,8.5
+140,Pinjore Gardens,Panchkula,Haryana,Heritage,October - March,8
+141,Morni Hills,Panchkula,Haryana,Hill Station,October - March,7.8
+142,Sultanpur National Park,Gurugram,Haryana,Wildlife,October - March,8.2
+143,Brahma Sarovar,Kurukshetra,Haryana,Religious,October - March,8.3
+144,Karna Lake,Karnal,Haryana,Nature,October - March,7.5
+145,Yadavindra Gardens,Panchkula,Haryana,Heritage,October - March,7.7
+146,Bhindawas Wildlife Sanctuary,Jhajjar,Haryana,Wildlife,October - March,7.4
+147,Kalesar National Park,Yamunanagar,Haryana,Wildlife,October - March,7.9
+148,Rock Garden,Panchkula,Haryana,Heritage,October - March,8.1
+149,Shimla,Shimla,Himachal Pradesh,Hill Station,March - June,9.5
+150,Manali,Kullu,Himachal Pradesh,Hill Station,April - June,9.4
+151,Dalhousie,Chamba,Himachal Pradesh,Hill Station,March - June,9
+152,Spiti Valley,Lahaul and Spiti,Himachal Pradesh,Adventure,May - October,9.2
+153,Dharamshala,Kangra,Himachal Pradesh,Hill Station,March - June,9.1
+154,McLeod Ganj,Kangra,Himachal Pradesh,Cultural,March - June,9
+155,Kullu Valley,Kullu,Himachal Pradesh,Nature,March - June,8.7
+156,Chail,Solan,Himachal Pradesh,Hill Station,March - June,8.5
+157,Kufri,Shimla,Himachal Pradesh,Hill Station,December - February,8.6
+158,Tirthan Valley,Kullu,Himachal Pradesh,Nature,March - June,8.9
+159,Narkanda,Shimla,Himachal Pradesh,Hill Station,December - February,8.2
+160,Bir Billing,Kangra,Himachal Pradesh,Adventure,March - June,8.7
+161,Kalpa,Kinnaur,Himachal Pradesh,Hill Station,April - June,8.4
+162,Sangla Valley,Kinnaur,Himachal Pradesh,Nature,April - June,8.6
+163,Rohtang Pass,Kullu,Himachal Pradesh,Mountain,May - October,9
+164,Malana,Kullu,Himachal Pradesh,Cultural,April - June,8.3
+165,Key Monastery,Lahaul and Spiti,Himachal Pradesh,Religious,May - October,8.8
+166,Parvati Valley,Kullu,Himachal Pradesh,Nature,April - June,8.5
+167,Prashar Lake,Mandi,Himachal Pradesh,Nature,April - June,8.4
+168,Jibhi,Kullu,Himachal Pradesh,Hill Station,March - June,8.1
+169,Sarahan,Shimla,Himachal Pradesh,Religious,April - June,8
+170,Kinnaur,Kinnaur,Himachal Pradesh,Adventure,April - June,8.7
+171,Khajjiar,Chamba,Himachal Pradesh,Hill Station,March - June,8.9
+172,Solang Valley,Kullu,Himachal Pradesh,Adventure,December - February,8.8
+173,Betla National Park,Latehar,Jharkhand,Wildlife,October - March,8.2
+174,Dassam Falls,Ranchi,Jharkhand,Waterfall,August - October,8.5
+175,Netarhat,Latehar,Jharkhand,Hill Station,October - March,8
+176,Hundru Falls,Ranchi,Jharkhand,Waterfall,August - October,8.4
+177,Patratu Valley,Ramgarh,Jharkhand,Nature,October - March,7.9
+178,Parasnath Hill,Giridih,Jharkhand,Religious,October - March,8.1
+179,Jonha Falls,Ranchi,Jharkhand,Waterfall,August - October,8
+180,Baba Baidyanath Temple,Deoghar,Jharkhand,Religious,July - August,8.7
+181,Dimna Lake,East Singhbhum,Jharkhand,Nature,October - March,7.8
+182,Dalma Wildlife Sanctuary,East Singhbhum,Jharkhand,Wildlife,October - March,7.9
+183,Tagore Hill,Ranchi,Jharkhand,Heritage,October - March,7.5
+184,Ranchi Lake,Ranchi,Jharkhand,Nature,October - March,7.4
+185,Hazaribagh National Park,Hazaribagh,Jharkhand,Wildlife,October - March,7.7
+186,Hampi,Vijayanagara,Karnataka,Historical,October - March,9.4
+187,Mysore Palace,Mysore,Karnataka,Historical,October - March,9.3
+188,Coorg,Kodagu,Karnataka,Hill Station,October - March,9.2
+189,Chikmagalur,Chikmagalur,Karnataka,Hill Station,October - March,9
+190,Jog Falls,Shimoga,Karnataka,Waterfall,August - November,9.1
+191,Gokarna Beach,Uttara Kannada,Karnataka,Beach,October - March,8.9
+192,Badami Caves,Bagalkot,Karnataka,Historical,October - March,8.7
+193,Bannerghatta National Park,Bangalore,Karnataka,Wildlife,October - March,8.5
+194,Belur and Halebidu,Hassan,Karnataka,Historical,October - March,8.8
+195,Kudremukh National Park,Chikmagalur,Karnataka,Wildlife,October - March,8.6
+196,Nandi Hills,Bangalore Rural,Karnataka,Hill Station,October - March,8.4
+197,Udupi,Udupi,Karnataka,Religious,October - March,8.3
+198,Murudeshwar Temple,Uttara Kannada,Karnataka,Religious,October - March,8.7
+199,Shivanasamudra Falls,Mandya,Karnataka,Waterfall,August - November,8.5
+200,Agumbe,Shimoga,Karnataka,Nature,October - March,8.2
+201,Karwar,Uttara Kannada,Karnataka,Beach,October - March,8.1
+202,Ranganathittu Bird Sanctuary,Mandya,Karnataka,Wildlife,November - February,8.4
+203,Shravanabelagola,Hassan,Karnataka,Religious,October - March,8.6
+204,Sakleshpur,Hassan,Karnataka,Hill Station,October - March,8.3
+205,Aihole,Bagalkot,Karnataka,Historical,October - March,8.2
+206,Gol Gumbaz,Bijapur,Karnataka,Historical,October - March,8.5
+207,Bhimgad Wildlife Sanctuary,Belgaum,Karnataka,Wildlife,October - March,7.9
+208,Hesaraghatta Lake,Bangalore Rural,Karnataka,Nature,October - March,7.7
+209,Srirangapatna,Mandya,Karnataka,Historical,October - March,8.4
+210,Gommateshwara Statue,Hassan,Karnataka,Religious,October - March,8.5
+211,Manjarabad Fort,Hassan,Karnataka,Historical,October - March,7.8
+212,Brahmagiri Hills,Kodagu,Karnataka,Nature,October - March,8
+213,Maravanthe Beach,Udupi,Karnataka,Beach,October - March,8.4
+214,Dandeli Wildlife Sanctuary,Uttara Kannada,Karnataka,Wildlife,October - March,8.7
+215,Anshi National Park,Uttara Kannada,Karnataka,Wildlife,October - March,8.3
+216,Munnar,Idukki,Kerala,Hill Station,October - March,9.5
+217,Alleppey Backwaters,Alappuzha,Kerala,Nature,October - March,9.4
+218,Kovalam Beach,Thiruvananthapuram,Kerala,Beach,October - March,9
+219,Wayanad,Wayanad,Kerala,Hill Station,October - March,9.2
+220,Varkala Beach,Thiruvananthapuram,Kerala,Beach,October - March,8.9
+221,Thekkady,Idukki,Kerala,Wildlife,October - March,9.1
+222,Athirappilly Waterfalls,Thrissur,Kerala,Waterfall,September - January,9
+223,Kumarakom Bird Sanctuary,Kottayam,Kerala,Wildlife,November - February,8.8
+224,Ponmudi Hills,Thiruvananthapuram,Kerala,Hill Station,October - March,8.5
+225,Guruvayur Temple,Thrissur,Kerala,Religious,October - March,8.9
+226,Bekal Fort,Kasaragod,Kerala,Historical,October - March,8.7
+227,Periyar Wildlife Sanctuary,Idukki,Kerala,Wildlife,October - March,9
+228,Poovar Island,Thiruvananthapuram,Kerala,Nature,October - March,8.6
+229,Vagamon,Idukki,Kerala,Hill Station,October - March,8.8
+230,Meenmutty Waterfalls,Wayanad,Kerala,Waterfall,September - January,8.7
+231,Silent Valley National Park,Palakkad,Kerala,Wildlife,December - March,8.9
+232,Thusharagiri Waterfalls,Kozhikode,Kerala,Waterfall,September - January,8.5
+233,Cherai Beach,Ernakulam,Kerala,Beach,October - March,8.6
+234,Thenmala Ecotourism,Kollam,Kerala,Nature,October - March,8.3
+235,Muzhappilangad Drive-in Beach,Kannur,Kerala,Beach,October - March,8.7
+236,Thattekad Bird Sanctuary,Ernakulam,Kerala,Wildlife,November - February,8.4
+237,Kappad Beach,Kozhikode,Kerala,Beach,October - March,8.5
+238,Padmanabhapuram Palace,Kanyakumari,Tamil Nadu,Historical,October - March,8.8
+239,Chinnar Wildlife Sanctuary,Idukki,Kerala,Wildlife,October - March,8.4
+240,Edakkal Caves,Wayanad,Kerala,Historical,October - March,8.6
+241,Marari Beach,Alappuzha,Kerala,Beach,October - March,8.5
+242,Valparai (Kerala side),Idukki,Kerala,Hill Station,October - March,8.2
+243,Peppara Wildlife Sanctuary,Thiruvananthapuram,Kerala,Wildlife,October - March,8.1
+244,Khajuraho Temples,Chhatarpur,Madhya Pradesh,Historical,October - March,9.3
+245,Kanha National Park,Mandla,Madhya Pradesh,Wildlife,October - June,9.2
+246,Sanchi Stupa,Raisen,Madhya Pradesh,Historical,October - March,9
+247,Ujjain Mahakaleshwar Temple,Ujjain,Madhya Pradesh,Religious,October - March,9.1
+248,Bhimbetka Rock Shelters,Raisen,Madhya Pradesh,Historical,October - March,8.9
+249,Orchha Fort,Niwari,Madhya Pradesh,Historical,October - March,8.8
+250,Pachmarhi,Hoshangabad,Madhya Pradesh,Hill Station,October - March,8.7
+251,Panna National Park,Panna,Madhya Pradesh,Wildlife,October - June,8.8
+252,Gwalior Fort,Gwalior,Madhya Pradesh,Historical,October - March,8.9
+253,Mandu,Dhar,Madhya Pradesh,Historical,October - March,8.6
+254,Omkareshwar Temple,Khandwa,Madhya Pradesh,Religious,October - March,8.7
+255,Maheshwar,Khargone,Madhya Pradesh,Heritage,October - March,8.5
+256,Raneh Falls,Chhatarpur,Madhya Pradesh,Waterfall,August - October,8.4
+257,Chitrakoot,Satna,Madhya Pradesh,Religious,October - March,8.5
+258,Pench National Park,Seoni,Madhya Pradesh,Wildlife,October - June,8.8
+259,Satpura National Park,Hoshangabad,Madhya Pradesh,Wildlife,October - June,8.7
+260,Bhojpur Temple,Raisen,Madhya Pradesh,Religious,October - March,8.3
+261,Jata Shankar Cave,Pachmarhi,Madhya Pradesh,Religious,October - March,8.1
+262,Kuno National Park,Sheopur,Madhya Pradesh,Wildlife,October - June,8.6
+263,Burhanpur,Burhanpur,Madhya Pradesh,Historical,October - March,8
+264,Rajwada Palace,Indore,Madhya Pradesh,Historical,October - March,8.5
+265,Bhopal Upper Lake,Bhopal,Madhya Pradesh,Nature,October - March,8.3
+266,Hanuwantiya Island,Khandwa,Madhya Pradesh,Nature,October - March,8.2
+267,Sonagiri Jain Temples,Datia,Madhya Pradesh,Religious,October - March,8.4
+268,Bandhavgarh National Park,Umaria,Madhya Pradesh,Wildlife,October - June,9.1
+269,Maihar Devi Temple,Satna,Madhya Pradesh,Religious,October - March,8.3
+270,Mandleshwar,Khargone,Madhya Pradesh,Religious,October - March,8
+271,Jabalpur Marble Rocks,Jabalpur,Madhya Pradesh,Nature,October - March,8.7
+272,Udayagiri Caves,Vidisha,Madhya Pradesh,Historical,October - March,8.2
+273,Gateway of India,Mumbai,Maharashtra,Historical,October - March,9.5
+274,Elephanta Caves,Mumbai,Maharashtra,Historical,October - March,9
+275,Ajanta Caves,Aurangabad,Maharashtra,Historical,October - March,9.4
+276,Ellora Caves,Aurangabad,Maharashtra,Historical,October - March,9.3
+277,Marine Drive,Mumbai,Maharashtra,Heritage,October - March,9.2
+278,Lonavala,Pune,Maharashtra,Hill Station,June - February,8.9
+279,Khandala,Pune,Maharashtra,Hill Station,June - February,8.7
+280,Mahabaleshwar,Satara,Maharashtra,Hill Station,October - June,9.1
+281,Panchgani,Satara,Maharashtra,Hill Station,October - June,8.8
+282,Matheran,Raigad,Maharashtra,Hill Station,October - June,8.9
+283,Tadoba National Park,Chandrapur,Maharashtra,Wildlife,October - June,9
+284,Raigad Fort,Raigad,Maharashtra,Historical,October - March,8.7
+285,Harihareshwar Beach,Raigad,Maharashtra,Beach,October - March,8.5
+286,Alibaug,Raigad,Maharashtra,Beach,October - March,8.8
+287,Bhandardara,Ahmednagar,Maharashtra,Hill Station,October - March,8.4
+288,Kaas Plateau,Satara,Maharashtra,Nature,September - October,8.9
+289,Lonar Crater Lake,Buldhana,Maharashtra,Nature,October - March,8.6
+290,Chandrapur,Chandrapur,Maharashtra,Heritage,October - March,8
+291,Malvan,Sindhudurg,Maharashtra,Beach,October - March,8.5
+292,Sindhudurg Fort,Sindhudurg,Maharashtra,Historical,October - March,8.7
+293,Nashik Vineyards,Nashik,Maharashtra,Heritage,October - March,8.6
+294,Trimbakeshwar Temple,Nashik,Maharashtra,Religious,October - March,8.8
+295,Bhimashankar Wildlife Sanctuary,Pune,Maharashtra,Wildlife,October - March,8.4
+296,Devkund Waterfalls,Raigad,Maharashtra,Waterfall,August - February,8.5
+297,Pratapgad Fort,Satara,Maharashtra,Historical,October - March,8.6
+298,Purandar Fort,Pune,Maharashtra,Historical,October - March,8.3
+299,Torna Fort,Pune,Maharashtra,Historical,October - March,8.4
+300,Tamhini Ghat,Pune,Maharashtra,Nature,July - February,8.6
+301,Kalsubai Peak,Ahmednagar,Maharashtra,Adventure,October - March,8
+302,Kangla Fort,Imphal East,Manipur,Historical,October-March,7.9
+303,Keibul Lamjao National Park,Bishnupur,Manipur,Wildlife,November-February,8.5
+304,Thalon Cave,Tamenglong,Manipur,Nature,October-March,7.2
+305,Dzukou Valley,Senapati,Manipur,Mountain,May-August,9.1
+306,Singda Dam,Imphal West,Manipur,Dam,October-March,6.8
+307,Sirohi National Park,Ukhrul,Manipur,Wildlife,November-February,7.5
+308,Khonghampat Orchidarium,Imphal West,Manipur,Nature,March-May,7
+309,Imphal War Cemetery,Imphal West,Manipur,Historical,October-March,7.6
+310,Leimaram Waterfalls,Bishnupur,Manipur,Waterfall,June-September,8
+311,Living Root Bridges,East Khasi Hills,Meghalaya,Nature,November-March,9.4
+312,Mawsynram,East Khasi Hills,Meghalaya,Nature,June-September,8.8
+313,Nohkalikai Falls,East Khasi Hills,Meghalaya,Waterfall,June-September,9.2
+314,Laitlum Canyon,East Khasi Hills,Meghalaya,Nature,October-March,8.5
+315,Balpakram National Park,South Garo Hills,Meghalaya,Wildlife,October-March,8.2
+316,Elephant Falls,East Khasi Hills,Meghalaya,Waterfall,June-September,8.7
+317,Krem Liat Prah Caves,East Jaintia Hills,Meghalaya,Historical,November-February,7.9
+318,Mawphlang Sacred Grove,East Khasi Hills,Meghalaya,Cultural,October-March,8.3
+319,Jaintia Hills,West Jaintia Hills,Meghalaya,Hill Station,October-March,8.1
+320,Siju Caves,South Garo Hills,Meghalaya,Historical,November-February,7.8
+321,Shillong Peak,East Khasi Hills,Meghalaya,Nature,October-March,8.5
+322,Sweet Falls,East Khasi Hills,Meghalaya,Waterfall,June-September,8.4
+323,Phawngpui Peak,Lawngtlai,Mizoram,Mountain,October-March,8.6
+324,Vantawng Falls,Serchhip,Mizoram,Waterfall,June-September,8.5
+325,Hmuifang Hill,Aizawl,Mizoram,Hill Station,October-March,7.9
+326,Dampa Tiger Reserve,Mamit,Mizoram,Wildlife,November-February,8
+327,Reiek Tlang,Mamit,Mizoram,Mountain,October-March,8.3
+328,Lengteng Wildlife Sanctuary,Champhai,Mizoram,Wildlife,November-February,7.7
+329,Kohima War Cemetery,Kohima,Nagaland,Historical,October-March,8.4
+330,Hornbill Festival Grounds,Kohima,Nagaland,Cultural,December,9.5
+331,Japfu Peak,Kohima,Nagaland,Mountain,October-March,8.2
+332,Tuophema Village,Kohima,Nagaland,Cultural,October-March,7.9
+333,Khonoma Village,Kohima,Nagaland,Cultural,October-March,8.1
+334,Ntangki National Park,Peren,Nagaland,Wildlife,November-February,7.8
+335,Triple Falls,Sechu Zubza,Nagaland,Waterfall,June-September,8
+336,Longwa Village,Mon,Nagaland,Cultural,October-March,8.3
+337,Konark Sun Temple,Puri,Odisha,Religious,October-March,9.4
+338,Jagannath Temple,Puri,Odisha,Religious,November-February,9.6
+339,Bhitarkanika National Park,Kendrapara,Odisha,Wildlife,November-February,8.8
+340,Simlipal National Park,Mayurbhanj,Odisha,Wildlife,November-February,8.7
+341,Lingaraj Temple,Bhubaneswar,Odisha,Religious,October-March,8.6
+342,Hirakud Dam,Sambalpur,Odisha,Dam,October-March,8.2
+343,Udayagiri and Khandagiri Caves,Bhubaneswar,Odisha,Historical,October-March,8.5
+344,Gopalpur Beach,Ganjam,Odisha,Beach,October-March,8.3
+345,Satkosia Gorge,Angul,Odisha,Wildlife,November-February,8.1
+346,Chandipur Beach,Balasore,Odisha,Beach,October-March,8.7
+347,Barehipani Waterfalls,Mayurbhanj,Odisha,Waterfall,July-October,8.6
+348,Duduma Waterfalls,Koraput,Odisha,Waterfall,July-October,8.5
+349,Barabati Fort,Cuttack,Odisha,Historical,October-March,7.9
+350,Daringbadi,Kandhamal,Odisha,Hill Station,October-March,8.4
+351,Mukteshwar Temple,Cuttack,Odisha,Religious,October-March,7.8
+352,Nandankanan Zoological Park,Bhubaneswar,Odisha,Wildlife,October-March,8.8
+353,Taptapani Hot Springs,Ganjam,Odisha,Nature,October-March,7.6
+354,Balukhand-Konark Wildlife Sanctuary,Puri,Odisha,Wildlife,November-February,7.9
+355,Khandadhar Waterfall,Sundargarh,Odisha,Waterfall,July-October,8.2
+356,Jirang Monastery,Gajapati,Odisha,Religious,October-March,7.5
+357,Taratarini Temple,Ganjam,Odisha,Religious,October-March,7.8
+358,Tikarpada Wildlife Sanctuary,Angul,Odisha,Wildlife,November-February,7.7
+359,Budhakhol,Sambalpur,Odisha,Nature,October-March,7.3
+360,Harishankar Temple,Balangir,Odisha,Religious,October-March,7.7
+361,Golden Temple,Amritsar,Punjab,Religious,October-March,9.7
+362,Wagah Border,Amritsar,Punjab,Cultural,October-March,9.5
+363,Jallianwala Bagh,Amritsar,Punjab,Historical,October-March,9.1
+364,Anandpur Sahib,Rupnagar,Punjab,Religious,October-March,8.7
+365,Sheesh Mahal,Patiala,Punjab,Historical,October-March,8.4
+366,Harike Wetland,Tarn Taran,Punjab,Wildlife,November-February,8.2
+367,Qila Mubarak,Patiala,Punjab,Historical,October-March,8.3
+368,Ranjit Sagar Dam,Pathankot,Punjab,Dam,October-March,8
+369,Bathinda Fort,Bathinda,Punjab,Historical,October-March,8.1
+370,Muktsar,Sri Muktsar Sahib,Punjab,Historical,October-March,7.6
+371,Chhatbir Zoo,Mohali,Punjab,Wildlife,October-March,8.4
+372,Doraha Sarai,Ludhiana,Punjab,Historical,October-March,7.5
+373,Gurdwara Fatehgarh Sahib,Fatehgarh Sahib,Punjab,Religious,October-March,8.3
+374,Hawa Mahal,Jaipur,Rajasthan,Historical,October-March,9.2
+375,Amber Fort,Jaipur,Rajasthan,Fort,October-March,9.5
+376,Jaisalmer Fort,Jaisalmer,Rajasthan,Fort,October-March,9.3
+377,Mehrangarh Fort,Jodhpur,Rajasthan,Fort,October-March,9.4
+378,Ranthambore National Park,Sawai Madhopur,Rajasthan,Wildlife,October-May,9.2
+379,Mount Abu,Sirohi,Rajasthan,Hill Station,October-March,8.9
+380,Chittorgarh Fort,Chittorgarh,Rajasthan,Fort,October-March,9.1
+381,Bikaner Camel Farm,Bikaner,Rajasthan,Wildlife,October-March,8.5
+382,Kumbhalgarh Fort,Rajsamand,Rajasthan,Fort,October-March,8.8
+383,Bundi Stepwells,Bundi,Rajasthan,Historical,October-March,8.4
+384,Ranakpur Jain Temples,Pali,Rajasthan,Religious,October-March,8.7
+385,Keoladeo National Park,Bharatpur,Rajasthan,Wildlife,October-March,9
+386,Mandawa Havelis,Jhunjhunu,Rajasthan,Historical,October-March,8.6
+387,Alwar Bala Quila,Alwar,Rajasthan,Fort,October-March,8.3
+388,Sariska Tiger Reserve,Alwar,Rajasthan,Wildlife,October-May,8.8
+389,Khimsar Fort,Nagaur,Rajasthan,Fort,October-March,8.2
+390,Galtaji Temple,Jaipur,Rajasthan,Religious,October-March,8.5
+391,Abhaneri Stepwell,Dausa,Rajasthan,Historical,October-March,8.7
+392,Jhalawar,Jhalawar,Rajasthan,Historical,October-March,7.9
+393,Jawai Leopard Reserve,Pali,Rajasthan,Wildlife,October-May,8.7
+394,Shekhawati Painted Havelis,Sikar,Rajasthan,Historical,October-March,8.8
+395,Nathula Pass,East Sikkim,Sikkim,Mountain,April-June/September-October,9.3
+396,Rumtek Monastery,East Sikkim,Sikkim,Religious,April-June/September-October,8.8
+397,Yumthang Valley,North Sikkim,Sikkim,Mountain,March-June/September-October,9.4
+398,Zero Point,North Sikkim,Sikkim,Mountain,April-June/September-October,9
+399,Ravangla Buddha Park,South Sikkim,Sikkim,Religious,April-June/September-October,8.6
+400,Tashiding Monastery,West Sikkim,Sikkim,Religious,April-June/September-October,8.3
+401,Zuluk,East Sikkim,Sikkim,Mountain,April-June/September-October,8.2
+402,Kanchenjunga National Park,North Sikkim,Sikkim,Wildlife,April-June/September-October,9
+403,Meenakshi Temple,Madurai,Tamil Nadu,Religious,October-March,9.5
+404,Marina Beach,Chennai,Tamil Nadu,Beach,November-February,9.3
+405,Mahabalipuram Shore Temple,Kanchipuram,Tamil Nadu,Religious,October-March,9.2
+406,Kodaikanal,Dindigul,Tamil Nadu,Hill Station,March-June/September-November,9
+407,Ooty,Nilgiris,Tamil Nadu,Hill Station,March-June/September-November,9.2
+408,Rameswaram,Ramanathapuram,Tamil Nadu,Religious,October-March,9.1
+409,Chidambaram Nataraja Temple,Cuddalore,Tamil Nadu,Religious,October-March,8.8
+410,Thanjavur Brihadeeswarar Temple,Thanjavur,Tamil Nadu,Religious,October-March,9.2
+411,Kanyakumari Vivekananda Rock,Kanyakumari,Tamil Nadu,Nature,October-March,9.3
+412,Yercaud,Salem,Tamil Nadu,Hill Station,March-June/September-November,8.7
+413,Hogenakkal Falls,Dharmapuri,Tamil Nadu,Waterfall,July-October,8.9
+414,Kolli Hills,Namakkal,Tamil Nadu,Hill Station,October-March,8.6
+415,Vellore Golden Temple,Vellore,Tamil Nadu,Religious,October-March,8.8
+416,Gingee Fort,Villupuram,Tamil Nadu,Fort,October-March,8.5
+417,Mudumalai National Park,Nilgiris,Tamil Nadu,Wildlife,November-February,8.8
+418,Kalakkad Mundanthurai Tiger Reserve,Tirunelveli,Tamil Nadu,Wildlife,November-February,8.5
+419,Point Calimere Wildlife Sanctuary,Nagapattinam,Tamil Nadu,Wildlife,November-February,8.2
+420,Nagore Dargah,Nagapattinam,Tamil Nadu,Religious,October-March,8
+421,Tiruvannamalai,Tiruvannamalai,Tamil Nadu,Religious,October-March,8.7
+422,Pichavaram Mangrove Forest,Cuddalore,Tamil Nadu,Nature,October-March,8.6
+423,Athirappilly Waterfalls (Tamil Nadu side),Coimbatore,Tamil Nadu,Waterfall,July-October,8.7
+424,Sathyamangalam Wildlife Sanctuary,Erode,Tamil Nadu,Wildlife,November-February,8.4
+425,Javadi Hills,Vellore,Tamil Nadu,Hill Station,October-March,8.1
+426,Vedanthangal Bird Sanctuary,Kanchipuram,Tamil Nadu,Wildlife,November-February,8.5
+427,Kumbakonam Temples,Thanjavur,Tamil Nadu,Religious,October-March,8.6
+428,Manimuthar Falls,Tirunelveli,Tamil Nadu,Waterfall,July-October,8.3
+429,Srivilliputhur Andal Temple,Virudhunagar,Tamil Nadu,Religious,October-March,8.4
+430,Vattakottai Fort,Kanyakumari,Tamil Nadu,Fort,October-March,8.2
+431,Thirparappu Waterfalls,Kanyakumari,Tamil Nadu,Waterfall,July-October,8.1
+432,Charminar,Hyderabad,Telangana,Historical,October-March,9.3
+433,Golconda Fort,Hyderabad,Telangana,Fort,October-March,9.1
+434,Warangal Fort,Warangal,Telangana,Fort,October-March,8.7
+435,Kakatiya Kala Thoranam,Warangal,Telangana,Historical,October-March,8.5
+436,Nagarjuna Sagar Dam,Nalgonda,Telangana,Dam,October-March,8.8
+437,Bhongir Fort,Yadadri Bhuvanagiri,Telangana,Fort,October-March,8.4
+438,Basara Saraswati Temple,Nirmal,Telangana,Religious,October-March,8.6
+439,Kinnerasani Wildlife Sanctuary,Bhadradri Kothagudem,Telangana,Wildlife,November-February,8.3
+440,Pocharam Wildlife Sanctuary,Medak,Telangana,Wildlife,November-February,8.1
+441,Mallela Theertham Waterfall,Nagarkurnool,Telangana,Waterfall,July-October,8.5
+442,Medak Cathedral,Medak,Telangana,Religious,October-March,8.3
+443,Ananthagiri Hills,Vikarabad,Telangana,Hill Station,October-March,8.6
+444,Pillalamarri,Mahabubnagar,Telangana,Nature,October-March,7.9
+445,Khammam Fort,Khammam,Telangana,Fort,October-March,8
+446,Koilkonda Fort,Mahabubnagar,Telangana,Fort,October-March,7.8
+447,Nehru Zoological Park,Hyderabad,Telangana,Wildlife,October-March,8.7
+448,Tripura Sundari Temple,Gomati,Tripura,Religious,October-March,8.6
+449,Sepahijala Wildlife Sanctuary,Sepahijala,Tripura,Wildlife,November-February,8.3
+450,Unakoti Rock Carvings,North Tripura,Tripura,Historical,October-March,8.4
+451,Jampui Hills,North Tripura,Tripura,Hill Station,October-March,8.5
+452,Chabimura Rock Art,Gomati,Tripura,Historical,October-March,8.1
+453,Pilak Archaeological Site,South Tripura,Tripura,Historical,October-March,7.9
+454,Taj Mahal,Agra,Uttar Pradesh,Historical,October-March,9.8
+455,Agra Fort,Agra,Uttar Pradesh,Fort,October-March,9.5
+456,Fatehpur Sikri,Agra,Uttar Pradesh,Historical,October-March,9.4
+457,Varanasi Ghats,Varanasi,Uttar Pradesh,Religious,October-March,9.6
+458,Kashi Vishwanath Temple,Varanasi,Uttar Pradesh,Religious,October-March,9.5
+459,Sarnath,Varanasi,Uttar Pradesh,Religious,October-March,9.1
+460,Ayodhya,Faizabad,Uttar Pradesh,Religious,October-March,9.2
+461,Allahabad Triveni Sangam,Prayagraj,Uttar Pradesh,Religious,October-March,9.3
+462,Jhansi Fort,Jhansi,Uttar Pradesh,Fort,October-March,8.7
+463,Mathura,Mathura,Uttar Pradesh,Religious,October-March,9
+464,Vrindavan,Mathura,Uttar Pradesh,Religious,October-March,9.1
+465,Dudhwa National Park,Lakhimpur Kheri,Uttar Pradesh,Wildlife,November-February,8.6
+466,Kushinagar,Kushinagar,Uttar Pradesh,Religious,October-March,8.8
+467,Hastinapur,Meerut,Uttar Pradesh,Religious,October-March,8.5
+468,Sankisa,Farrukhabad,Uttar Pradesh,Religious,October-March,8.3
+469,Bareilly Dargah,Bareilly,Uttar Pradesh,Religious,October-March,8.4
+470,Balrampur Temple,Balrampur,Uttar Pradesh,Religious,October-March,8.2
+471,Mirzapur Waterfalls,Mirzapur,Uttar Pradesh,Waterfall,July-October,8.5
+472,Sonbhadra Rock Paintings,Sonbhadra,Uttar Pradesh,Historical,October-March,8.1
+473,Sita Samahit Sthal,Sitapur,Uttar Pradesh,Religious,October-March,8
+474,Mahoba,Mahoba,Uttar Pradesh,Historical,October-March,7.9
+475,Bateshwar Temples,Agra,Uttar Pradesh,Religious,October-March,8.4
+476,Ramnagar Fort,Varanasi,Uttar Pradesh,Fort,October-March,8.6
+477,Vindhyachal Temple,Mirzapur,Uttar Pradesh,Religious,October-March,8.5
+478,Naimisharanya,Sitapur,Uttar Pradesh,Religious,October-March,8.3
+479,Bithoor,Kanpur,Uttar Pradesh,Religious,October-March,8.2
+480,Piprahwa Stupa,Siddharthnagar,Uttar Pradesh,Religious,October-March,8
+481,Govardhan Hill,Mathura,Uttar Pradesh,Religious,October-March,8.7
+482,Maharaja Gangadhar Rao Fort,Jhansi,Uttar Pradesh,Fort,October-March,8.3
+483,Nainital,Nainital,Uttarakhand,Hill Station,March-June/September-November,9.3
+484,Mussoorie,Dehradun,Uttarakhand,Hill Station,March-June/September-November,9.2
+485,Haridwar,Haridwar,Uttarakhand,Religious,October-March,9.5
+486,Auli,Chamoli,Uttarakhand,Hill Station,November-March,9.1
+487,Kedarnath Temple,Rudraprayag,Uttarakhand,Religious,May-June/September-October,9.5
+488,Badrinath Temple,Chamoli,Uttarakhand,Religious,May-June/September-October,9.4
+489,Valley of Flowers National Park,Chamoli,Uttarakhand,Nature,July-September,9.6
+490,Jim Corbett National Park,Nainital,Uttarakhand,Wildlife,November-June,9.3
+491,Tungnath Temple,Rudraprayag,Uttarakhand,Religious,May-June/September-October,9
+492,Chopta,Rudraprayag,Uttarakhand,Hill Station,March-June/September-November,8.9
+493,Tehri Dam,Tehri Garhwal,Uttarakhand,Dam,October-March,8.7
+494,Munsiyari,Pithoragarh,Uttarakhand,Hill Station,March-June/September-November,8.8
+495,Lansdowne,Pauri Garhwal,Uttarakhand,Hill Station,March-June/September-November,8.7
+496,Binsar Wildlife Sanctuary,Almora,Uttarakhand,Wildlife,November-February,8.8
+497,Kausani,Bageshwar,Uttarakhand,Hill Station,March-June/September-November,8.9
+498,Roopkund Lake,Chamoli,Uttarakhand,Nature,May-June/September-October,9
+499,Hemkund Sahib,Chamoli,Uttarakhand,Religious,June-October,9.2
+500,Gangotri,Uttarkashi,Uttarakhand,Religious,May-June/September-October,9.3
+501,Yamunotri,Uttarkashi,Uttarakhand,Religious,May-June/September-October,9.1
+502,Ranikhet,Almora,Uttarakhand,Hill Station,March-June/September-November,8.6
+503,Harsil,Uttarkashi,Uttarakhand,Hill Station,March-June/September-November,8.5
+504,Devprayag,Tehri Garhwal,Uttarakhand,Religious,October-March,8.7
+505,Dhanaulti,Tehri Garhwal,Uttarakhand,Hill Station,March-June/September-November,8.4
+506,Surkanda Devi Temple,Tehri Garhwal,Uttarakhand,Religious,March-June/September-November,8.3
+507,Gwaldam,Chamoli,Uttarakhand,Hill Station,March-June/September-November,8.2
+508,Darjeeling,Darjeeling,West Bengal,Hill Station,March-June/September-November,9.4
+509,Kolkata Victoria Memorial,Kolkata,West Bengal,Historical,October-March,9.3
+510,Sunderbans National Park,South 24 Parganas,West Bengal,Wildlife,November-February,9.2
+511,Digha Beach,East Medinipur,West Bengal,Beach,October-March,8.9
+512,Kalimpong,Kalimpong,West Bengal,Hill Station,March-June/September-November,8.8
+513,Jaldapara Wildlife Sanctuary,Alipurduar,West Bengal,Wildlife,November-February,8.8
+514,Bishnupur Temples,Bankura,West Bengal,Religious,October-March,8.6
+515,Gorumara National Park,Jalpaiguri,West Bengal,Wildlife,November-February,8.7
+516,Shantiniketan,Birbhum,West Bengal,Cultural,October-March,8.8
+517,Tarapith Temple,Birbhum,West Bengal,Religious,October-March,8.5
+518,Mukutmanipur Dam,Bankura,West Bengal,Dam,October-March,8.3
+519,Bakkhali Beach,South 24 Parganas,West Bengal,Beach,October-March,8.5
+520,Sundarbans Mangroves,South 24 Parganas,West Bengal,Nature,November-February,9.1
+521,Chandannagar,Hooghly,West Bengal,Historical,October-March,8.2
+522,Diamond Harbour,South 24 Parganas,West Bengal,Nature,October-March,8
+523,Henry's Island,South 24 Parganas,West Bengal,Beach,October-March,8.1
+524,Gangasagar,South 24 Parganas,West Bengal,Religious,October-March,8.7
+525,Joychandi Pahar,Purulia,West Bengal,Nature,October-March,8.2
+526,Rasikbil Bird Sanctuary,Cooch Behar,West Bengal,Wildlife,November-February,8.3
+527,Purulia Ajodhya Hills,Purulia,West Bengal,Hill Station,October-March,8.4
+528,Belur Math,Howrah,West Bengal,Religious,October-March,8.7
+529,Mayapur ISKCON Temple,Nadia,West Bengal,Religious,October-March,8.6
+530,Rajbari Bawali,South 24 Parganas,West Bengal,Historical,October-March,8.1
+531,Gadiara,Howrah,West Bengal,Nature,October-March,7.9
+532,Jhargram,Jhargram,West Bengal,Nature,October-March,8
+533,Achipur Chinese Temple,South 24 Parganas,West Bengal,Religious,October-March,7.8
+534,Sagar Island,South 24 Parganas,West Bengal,Religious,October-March,8.5
+535,Radhanagar Beach,South Andaman,Andaman & Nicobar Islands,Beach,November-April,9.5
+536,Cellular Jail,South Andaman,Andaman & Nicobar Islands,Historical,November-April,9.3
+537,Neil Island,South Andaman,Andaman & Nicobar Islands,Beach,November-April,9.2
+538,Ross Island,South Andaman,Andaman & Nicobar Islands,Historical,November-April,8.9
+539,Baratang Caves,Middle Andaman,Andaman & Nicobar Islands,Historical,November-April,9
+540,North Bay Island,South Andaman,Andaman & Nicobar Islands,Beach,November-April,8.8
+541,Barren Island Volcano,Andaman Islands,Andaman & Nicobar Islands,Nature,November-April,8.7
+542,Mount Harriet National Park,South Andaman,Andaman & Nicobar Islands,Wildlife,November-February,8.6
+543,Mahatma Gandhi Marine National Park,South Andaman,Andaman & Nicobar Islands,Wildlife,November-February,9.1
+544,Chidiya Tapu,South Andaman,Andaman & Nicobar Islands,Nature,November-April,8.7
+545,Rose Garden,Chandigarh,Chandigarh,Nature,February-March,8.8
+546,Jampore Beach,Daman,Daman and Diu,Beach,October-March,7.2
+547,Devka Beach,Daman,Daman and Diu,Beach,October-March,7
+548,Nani Daman Fort,Daman,Daman and Diu,Historical,Year-round,7.5
+549,St Jerome Fort,Daman,Daman and Diu,Historical,Year-round,6.9
+550,Silvassa Vasona Lion Safari,Silvassa,Dadra and Nagar Haveli,Wildlife,October-March,8.1
+551,Tribal Cultural Museum,Silvassa,Dadra and Nagar Haveli,Historical,Year-round,6.8
+552,Moti Daman Fort,Daman,Daman and Diu,Historical,Year-round,7.6
+553,Somnath Mahadev Temple,Daman,Daman and Diu,Religious,Year-round,7.4
+554,Satmaliya Deer Park,Silvassa,Dadra and Nagar Haveli,Wildlife,October-March,6.7
+555,Jantar Mantar,Central Delhi,Delhi,Historical,October-March,8.2
+556,Lodhi Garden,South Delhi,Delhi,Nature,October-March,8.3
+557,Raj Ghat,Central Delhi,Delhi,Historical,October-March,8
+558,Agrasen ki Baoli,Central Delhi,Delhi,Historical,October-March,7.8
+559,Calangute Beach,North Goa,Goa,Beach,October-March,9.1
+560,Aguada Fort,North Goa,Goa,Historical,October-March,8.7
+561,Arambol Beach,North Goa,Goa,Beach,October-March,8.6
+562,Vagator Beach,North Goa,Goa,Beach,October-March,8.5
+563,Candolim Beach,North Goa,Goa,Beach,October-March,8.7
+564,Miramar Beach,Panaji,Goa,Beach,October-March,8.2
+565,Se Cathedral,Old Goa,Goa,Religious,October-March,8.3
+566,Reis Magos Fort,North Goa,Goa,Historical,October-March,7.9
+567,Bhagwan Mahavir Wildlife Sanctuary,South Goa,Goa,Wildlife,October-March,8
+568,Dirang,West Kameng,Arunachal Pradesh,Hill Station,April-October,7.8
+569,Mechuka,Shi Yomi,Arunachal Pradesh,Mountain,April-October,8.2
+570,Bomdila Monastery,West Kameng,Arunachal Pradesh,Religious,April-October,8
+571,Ita Fort,Papum Pare,Arunachal Pradesh,Historical,October-March,7.7
+572,Pasighat,East Siang,Arunachal Pradesh,Adventure,October-March,7.6
+573,Daporijo,Upper Subansiri,Arunachal Pradesh,Cultural,April-October,7.2
+574,Sualkuchi Silk Village,Kamrup,Assam,Cultural,Year-round,7.6
+575,Jorhat,Jorhat,Assam,Cultural,October-March,7.4
+576,Bongaigaon,Bongaigaon,Assam,Cultural,October-March,7
+577,Barak Valley,Cachar,Assam,Mountain,October-March,7.3
+578,Tirathgarh Waterfalls,Bastar,Chhattisgarh,Waterfall,July-October,8.3
+579,Sirpur,Mahasamund,Chhattisgarh,Historical,October-March,7.5
+580,Maitri Bagh Zoo,Durg,Chhattisgarh,Wildlife,October-March,7.7
+581,Rajim,Gariaband,Chhattisgarh,Religious,October-March,7
+582,Kotumsar Caves,Bastar,Chhattisgarh,Historical,October-March,7.8
+583,Jatmai Temple,Korba,Chhattisgarh,Religious,October-March,6.9
+584,Sitanadi Wildlife Sanctuary,Dhamtari,Chhattisgarh,Wildlife,October-March,7.6
+585,Deoghar,Deoghar,Jharkhand,Religious,October-March,8.2
+586,Rajrappa Temple,Ramgarh,Jharkhand,Religious,October-March,7.8
+587,Birsa Zoological Park,Ranchi,Jharkhand,Wildlife,October-March,7.5
+588,Pahari Mandir,Ranchi,Jharkhand,Religious,Year-round,7.7
+589,Dimna Dam,East Singhbhum,Jharkhand,Dam,July-March,7.6
+590,Sun Temple,Hazaribagh,Jharkhand,Religious,October-March,7.4
+591,Usri Falls,Giridih,Jharkhand,Waterfall,July-October,7.9
+592,Chandil Dam,Seraikela Kharsawan,Jharkhand,Dam,July-March,7.5
+593,Panchkula Cactus Garden,Panchkula,Haryana,Nature,October-March,7.4
+594,Madhogarh Fort,Mahendragarh,Haryana,Historical,October-March,7.2
+595,Barot Valley,Mandi,Himachal Pradesh,Mountain,March-October,8.2
+596,Jalori Pass,Kullu,Himachal Pradesh,Mountain,May-October,8
+597,Kaza,Lahaul and Spiti,Himachal Pradesh,Adventure,June-September,8.5
+598,Hatu Peak,Shimla,Himachal Pradesh,Mountain,April-June & September-November,8.1
+599,Hampta Pass,Kullu,Himachal Pradesh,Mountain,June-September,8.4
+600,Lahaul Valley,Lahaul and Spiti,Himachal Pradesh,Mountain,June-September,8.3
+601,Shikari Devi Temple,Mandi,Himachal Pradesh,Religious,April-October,7.8
+602,Shirui Hills,Ukhrul,Manipur,Mountain,April-June,8
+603,INA Memorial,Moirang,Manipur,Historical,October-March,7.8
+604,Ebudhou Thangjing Temple,Moirang,Manipur,Religious,Year-round,7.5
+605,Khongjom War Memorial,Thoubal,Manipur,Historical,October-March,7.4
+606,Siju Cave,South Garo Hills,Meghalaya,Historical,October-March,8.1
+607,Mawsmai Cave,East Khasi Hills,Meghalaya,Historical,October-March,8.4
+608,Seven Sisters Waterfalls,East Khasi Hills,Meghalaya,Waterfall,July-September,8.5
+609,Krem Liat Prah Cave,East Jaintia Hills,Meghalaya,Historical,October-March,8.2
+610,Nokrek National Park,West Garo Hills,Meghalaya,Wildlife,October-March,7.9
+611,Pachmarhi Hill Station,Hoshangabad,Madhya Pradesh,Hill Station,October-March,8.6
+612,Bhedaghat Marble Rocks,Jabalpur,Madhya Pradesh,Nature,October-March,8.7
+613,Chanderi,Ashoknagar,Madhya Pradesh,Historical,October-March,7.8
+614,Omkareshwar Jyotirlinga,Khandwa,Madhya Pradesh,Religious,October-March,8.5
+615,Amarkantak,Anuppur,Madhya Pradesh,Religious,October-March,8.1
+616,Jai Vilas Palace,Gwalior,Madhya Pradesh,Historical,October-March,8
+617,Hoshangabad,Hoshangabad,Madhya Pradesh,Historical,October-March,7.5
+618,Bawangaja Jain Temple,Barwani,Madhya Pradesh,Religious,October-March,7.7
+619,Maheshwar Fort,Khargone,Madhya Pradesh,Historical,October-March,8
+620,Talakona Waterfalls,Chittoor,Andhra Pradesh,Waterfall,July-October,8.4
+621,Nagarjunakonda,Guntur,Andhra Pradesh,Historical,October-March,8
+622,Sri Kalahasti Temple,Chittoor,Andhra Pradesh,Religious,October-March,8.2
+623,Kanaka Durga Temple,Vijayawada,Andhra Pradesh,Religious,October-March,8.4
+624,Lambasingi,Visakhapatnam,Andhra Pradesh,Hill Station,December-January,8.2
+625,Mypadu Beach,Nellore,Andhra Pradesh,Beach,October-March,7.5
+626,Draksharamam Temple,East Godavari,Andhra Pradesh,Religious,October-March,7.7
+627,Undavalli Caves,Guntur,Andhra Pradesh,Historical,October-March,7.9
+628,Rajgir Hills,Nalanda,Bihar,Historical,October-March,8.2
+629,Kanwar Lake Bird Sanctuary,Begusarai,Bihar,Wildlife,October-March,7.6
+630,Tomb of Sher Shah Suri,Rohtas,Bihar,Historical,October-March,7.9
+631,Bhagalpur,Bhagalpur,Bihar,Cultural,October-March,7.3
+632,Kakolat Waterfall,Nawada,Bihar,Waterfall,July-October,7.8
+633,Mandar Hills,Banka,Bihar,Religious,October-March,7.4
+634,Dwarka Temple,Devbhoomi Dwarka,Gujarat,Religious,October-March,8.9
+635,Rani ki Vav,Patan,Gujarat,Historical,October-March,8.8
+636,Statue of Unity,Narmada,Gujarat,Historical,October-March,9
+637,Laxmi Vilas Palace,Vadodara,Gujarat,Historical,October-March,8.4
+638,Narayan Sarovar Sanctuary,Kutch,Gujarat,Wildlife,October-March,7.8
+639,Dholavira Harappan Site,Kutch,Gujarat,Historical,October-March,8.5
+640,Junagadh Fort,Junagadh,Gujarat,Historical,October-March,8.1
+641,Zanzari Waterfall,Valsad,Gujarat,Waterfall,July-October,7.7
+642,Palitana Temples,Bhavnagar,Gujarat,Religious,October-March,8.6
+643,Gopnath Beach,Bhavnagar,Gujarat,Beach,October-March,7.5
+644,Nishkalank Mahadev Temple,Bhavnagar,Gujarat,Religious,October-March,7.6
+645,Periyar National Park,Idukki,Kerala,Wildlife,September-May,8.9
+646,Idukki Dam,Idukki,Kerala,Dam,September-March,8.1
+647,Thrissur Pooram,Thrissur,Kerala,Cultural,April,8.7
+648,Malampuzha Dam,Palakkad,Kerala,Dam,September-March,7.9
+649,Padmanabhaswamy Temple,Thiruvananthapuram,Kerala,Religious,October-March,8.9
+650,Anamudi Peak,Idukki,Kerala,Mountain,October-March,8.4
+651,Parambikulam Wildlife Sanctuary,Palakkad,Kerala,Wildlife,November-February,8.5
+652,Alibaug Beach,Raigad,Maharashtra,Beach,October-March,8.5
+653,Tadoba Tiger Reserve,Chandrapur,Maharashtra,Wildlife,October-June,8.8
+654,Bibi Ka Maqbara,Aurangabad,Maharashtra,Historical,October-March,8.2
+655,Bhimashankar Temple,Pune,Maharashtra,Religious,October-March,8.2
+656,Lohagad Fort,Pune,Maharashtra,Historical,October-March,8.4
+657,Rajmachi Fort,Pune,Maharashtra,Historical,October-March,8.1
+658,Sinhagad Fort,Pune,Maharashtra,Historical,October-March,8.3
+659,Haji Ali Dargah,Mumbai,Maharashtra,Religious,October-March,8.6
